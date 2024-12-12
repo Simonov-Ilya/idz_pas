@@ -1,0 +1,7 @@
+{
+    "hostname": "localhost",
+    "port": 5432,
+    "databaseName": "tree_shop",
+    "username": "postgres",
+    "password": "postgres"
+}
